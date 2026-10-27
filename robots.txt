@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# PREVIEW: blocked from search engines. Replace with "Allow: /" and a Sitemap line when the site goes live.
